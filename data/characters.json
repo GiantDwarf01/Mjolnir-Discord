@@ -1,0 +1,26 @@
+{
+    "773342990013038653": {
+        "name": "Lydia Leagallow",
+        "race": "Halfling",
+        "class": "Warlock",
+        "str": 12,
+        "dex": 10,
+        "con": 14,
+        "int": 13,
+        "wis": 10,
+        "cha": 16,
+        "xp": 190
+    },
+    "255488327560462337": {
+        "name": "Rhad Chad",
+        "race": "Half-orc",
+        "class": "Cleric",
+        "str": 12,
+        "dex": 10,
+        "con": 16,
+        "int": 8,
+        "wis": 14,
+        "cha": 14,
+        "xp": 240
+    }
+}

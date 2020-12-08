@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-mjolnir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+
+  "nodemonConfig": {
+    "ignore": ["data/*.json"]
+  },
+
+  "author": "",
+  "license": "ISC"
+}
